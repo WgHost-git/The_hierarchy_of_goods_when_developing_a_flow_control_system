@@ -1,0 +1,2 @@
+# The_hierarchy_of_goods_when_developing_a_flow_control_system
+Разработать архитектуру классов иерархии товаров  при разработке системы управления потоками
